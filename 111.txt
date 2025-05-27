@@ -1,0 +1,1 @@
+connectionString = @"Data Source=Uz1ps\SQLEXPRESS;Initial Catalog=WallpaperProduction;Integrated Security=True;TrustServerCertificate=True";
